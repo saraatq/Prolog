@@ -4,7 +4,7 @@
  
  
 ## Family_Tree  
- A prolog program that represents the family tree that contains the following relations   
+ a prolog program that represents the family tree that contains the following relations   
  ( male, female,  
  parent, father, mother, son, daughter, brother, sister,   
  grandfather, grandmother, aunt, uncle, cousin, nephew, niece ). 
