@@ -18,4 +18,5 @@ program that can
 2. subtract
 3. Multiply
 4. Divide  
+
 [Calculator.pro](https://github.com/saraatq/Prolog/blob/main/Calculator.pro)
