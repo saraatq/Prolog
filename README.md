@@ -9,3 +9,13 @@ A prolog program that represents the family tree that contains the following rel
  parent, father, mother, son, daughter, brother, sister,   
  grandfather, grandmother, aunt, uncle, cousin, nephew, niece ).  
   [FamilyTree.pro](https://github.com/saraatq/Prolog/blob/main/FamilyTree.pro)
+  
+  
+## Calculator
+
+program that can 
+1. add
+2. subtract
+3. Multiply
+4. Divide  
+[Calculator.pro](https://github.com/saraatq/Prolog/blob/main/Calculator.pro)
