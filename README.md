@@ -3,7 +3,7 @@
  simple examples of Prolog programming using '<Visual Prolog>'
  
  
-## Family_Tree  
+## Family_Tree
  a prolog program that represents the family tree that contains the following relations   
  ( male, female,  
  parent, father, mother, son, daughter, brother, sister,   
