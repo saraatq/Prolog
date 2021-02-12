@@ -4,10 +4,10 @@
  
  
 ## Family_Tree  
-<h6> A prolog program that represents the family tree that contains the following relations   
- ( male, female,  
- parent, father, mother, son, daughter, brother, sister,  
- grandfather, grandmother, aunt, uncle, cousin, nephew, niece ).  
-  [FamilyTree.pro](https://github.com/saraatq/Prolog/blob/main/FamilyTree.pro)</h6>
+<h5> A prolog program that represents the family tree that contains the following relations   <br>
+ ( male, female,  <br>
+ parent, father, mother, son, daughter, brother, sister,  <br>
+ grandfather, grandmother, aunt, uncle, cousin, nephew, niece ).  </h5>
+  [FamilyTree.pro](https://github.com/saraatq/Prolog/blob/main/FamilyTree.pro)
 ---
 
