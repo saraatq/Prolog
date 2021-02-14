@@ -1,6 +1,6 @@
 predicates
 
-fact(integer, integer)
+nondeterm fact(integer, integer)
 
 clauses
 
