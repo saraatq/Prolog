@@ -23,5 +23,14 @@ program that can
 
 ## Power
  calculate the power of a number  
- "Non Tail Recursion" [power](https://github.com/saraatq/Prolog/blob/main/Power-NonTailtail-.pro)  
- "Tail Recursion" [power]()
+ "Non Tail Recursion" [nonTailPower](https://github.com/saraatq/Prolog/blob/main/Power-NonTailtail-.pro)  
+ "Tail Recursion" [tailPower]()
+ 
+ ## Factorial
+ calculate the factorial of a number  
+ "Non Tail factorial" [nonTailFactorial](https://github.com/saraatq/Prolog/blob/main/Factorial-NonTail-.pro)  
+ "Tail factorial" [tailFactorial](https://github.com/saraatq/Prolog/blob/main/Factorial-Tail-.pro)  
+ ## square or cube
+ Enter a value to be squared or cubed
+ -1 to Exit  
+ [square or cube](https://github.com/saraatq/Prolog/blob/main/SorC.pro)
