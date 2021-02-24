@@ -30,7 +30,12 @@ program that can
  calculate the factorial of a number  
  "Non Tail factorial" [nonTailFactorial](https://github.com/saraatq/Prolog/blob/main/Factorial-NonTail-.pro)  
  "Tail factorial" [tailFactorial](https://github.com/saraatq/Prolog/blob/main/Factorial-Tail-.pro)  
+ 
  ## square or cube
- Enter a value to be squared or cubed
+ Enter a value to be squared or cubed  
  -1 to Exit  
  [square or cube](https://github.com/saraatq/Prolog/blob/main/SorC.pro)
+ 
+ ## Sum of elements in a list   
+ "Non Tail Recursion" [nonTailSum](https://github.com/saraatq/Prolog/blob/main/SumNonTail.pro)  
+ "Tail Recursion" [tailSum](https://github.com/saraatq/Prolog/blob/main/SumTail.pro)
