@@ -2,7 +2,7 @@
 
 simple examples of Prolog programming using `Visual Prolog`
 
-***Prolog** is a logic programming language associated with artificial intelligence and computational linguistics.*
+>***Prolog** is a logic programming language associated with artificial intelligence and computational linguistics.*
 ## Family_tree 
 
 A prolog program that represents the family tree that contains the following relations   
